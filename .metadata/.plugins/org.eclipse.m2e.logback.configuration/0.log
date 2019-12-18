@@ -1,0 +1,17 @@
+2019-09-19 17:18:09,246 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-11-27 12:56:05,986 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DVR:DVR.com:0.0.1-SNAPSHOT @ D:\Development\DVRHARN\dvrAutomation\pom.xml.
+2019-11-27 12:56:14,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dvrAutomation/src/main/java
+2019-11-27 12:56:14,971 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dvrAutomation/src/test/java
+2019-11-27 12:56:15,227 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2019-11-27 12:56:21,892 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:56:21,893 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\main\resources
+2019-11-27 12:56:21,895 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:56:21,895 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\test\resources
+2019-11-27 12:57:15,709 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:57:15,709 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\main\resources
+2019-11-27 12:57:15,711 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:57:15,712 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\test\resources
+2019-11-27 12:57:22,937 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:57:22,938 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\main\resources
+2019-11-27 12:57:22,939 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 12:57:22,940 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\DVRHARN\dvrAutomation\src\test\resources
